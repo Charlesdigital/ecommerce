@@ -6,6 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div> Hello world</div>
+
+        {/*
+        nav
+        side panel options
+        main div
+        footer
+        
+
+        */}
       </header>
     </div>
   );
