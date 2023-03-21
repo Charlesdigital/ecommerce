@@ -8,7 +8,7 @@ function field() {
     <p>speed</p>
     <p>Frame Model</p>
     <p>wheel Size</p>
-    <p></p>
+    <p>price</p>
   )
 }
 
