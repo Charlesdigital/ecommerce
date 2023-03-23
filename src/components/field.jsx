@@ -25,12 +25,11 @@ function field() {
     <p>Frame Model</p>
     <p>wheel Size</p>
     <select>
-  <option value="10">10KM</option>
-  <option value="20">20KM</option>
-  <option value="30">30KM</option>
-  <option value="40">40KM</option>
-  <option value="50">50KM</option>
-  <option value="60">60+ KM</option>
+  <option value="20">20 Inch</option>
+  <option value="26">26 Inch </option>
+  <option value="27.5">27.5 Inch</option>
+  <option value="29">29 Inch</option>
+
 
 </select>
     <p>price</p>
