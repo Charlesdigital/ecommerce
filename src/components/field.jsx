@@ -21,8 +21,10 @@ function field() {
         <option value="46">45+ KM</option>
       </select>
       <p>Frame Model</p>
+      <select>
       <option value="1">Step through </option>
       <option value="1"> Step Over </option>
+      </select>
 
       <p>wheel Size</p>
       <select>
@@ -32,7 +34,10 @@ function field() {
         <option value="29">29 Inch</option>
       </select>
       <p>price</p>
-
+      <option value="500">500</option>
+        <option value="1000">1000 </option>
+        <option value="1500">1500</option>
+        <option value="2000">2000</option>
       <p>brand</p>
     </div>
   );
